@@ -27,7 +27,7 @@ pipeline {
                 echo "Start of Stage Deploy"
                 echo "Deploying......."
                 sh '''
-                echo "Long live ASAP"
+                echo "rabotay"
                 echo "Yamborghini High"
                 '''
                 echo "Hello $OWNER_NAME"
